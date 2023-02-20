@@ -17,7 +17,7 @@ Hi there👋 My name is Keosombath Nou
 ===============================
 
 * 🌍  I'm based in Australia
-* ✉️  You can contact me at [noukeosombath@gmail.com](mailto:noukeosombath@gmail.com)
+* ✉️  You can contact me via LinkedIn <a href="https://www.linkedin.com/in/keosombathnou" target="_blank">Keosombath Nou</a>
 
 <a href="https://www.github.com/roninimous" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/roninimous?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
