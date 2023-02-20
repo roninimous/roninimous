@@ -17,7 +17,7 @@ Hi there👋 My name is Keosombath Nou
 ===============================
 
 * 🌍  I'm based in Australia
-* ✉️  You can contact me via LinkedIn <a href="https://www.linkedin.com/in/keosombathnou" target="_blank">Keosombath Nou</a>
+* ✉️  You can contact me via LinkedIn <a href="https://www.linkedin.com/in/keosombath-nou/" target="_blank">Keosombath Nou</a>
 
 <a href="https://www.github.com/roninimous" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/roninimous?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -39,7 +39,7 @@ src="https://img.shields.io/github/followers/roninimous?logo=github&style=for-th
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Ronin#8467" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/roninimous" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/keosombathnou" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/Ronin#8467" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/roninimous" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/keosombath-nou/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
