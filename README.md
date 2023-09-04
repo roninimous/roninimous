@@ -1,7 +1,4 @@
 
-<!--
-**roninimous/roninimous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <h1 align="center">Hi 👋! My name is Keosombath Nou and I'm a developer programmer, from Melbourne</h1>
 
