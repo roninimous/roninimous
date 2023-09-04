@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋! My name is Keosombath Nou and I'm a developer programmer, from Melbourne</h1>
 
 ###
@@ -21,10 +19,6 @@
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="35" alt="twitch logo"  />
   </a>
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D5603AQHv5bOEmOUpNg/profile-displayphoto-shrink_400_400/0/1682910040254?e=1699488000&v=beta&t=FL6DXKZnuL0o05LOufTqjeJR_cjOonS8Ya7phuTJ2PA"  />
 
 ###
 
