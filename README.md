@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Keosombath Nou and I'm a developer programmer, from Melbourne</h1>
+<h1 align="center">Hello there! 👋 I'm Keosombath Nou, a developer programmer based in the vibrant city of Melbourne. Welcome to my GitHub profile!</h1>
 
 ###
 
