@@ -23,7 +23,7 @@ jobs:
           curl -fsSL -o generate.js https://roninimous.github.io/github-snake/readme/generate.js
 
       - name: Play the snake
-        run: node generate.js --user "${{ github.repository_owner }}" --out .
+        run: node generate.js --user "${{ github.repository_owner }}" --out . --step 0.14
 
       - name: Commit the result
         run: |
