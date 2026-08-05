@@ -63,15 +63,6 @@ making the interface feel effortless. I'm happiest when I'm learning a tool I ha
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roninimous&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roninimous&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
